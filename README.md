@@ -36,26 +36,23 @@ RedVerse features a gorgeous, dark-themed UI that feels alive. When you speak, t
 
 ---
 
-## 📱 RedVerse Android Companion App
+## 📱 RedVerse Android App
 
-The RedVerse Android App transforms your mobile phone into a powerful remote control for your Windows PC. It allows you to leverage the immense power of your desktop computer from anywhere in your house.
+The RedVerse Android App is a fully standalone, private AI assistant that runs directly on your mobile device hardware.
 
 ### Core Mobile Features:
 
-#### 🔗 Local Network Connection
-The Android app connects to your Windows Desktop app over your local WiFi network. Just type in your computer's IP address on the mobile dashboard, and your phone and computer are instantly linked.
+#### 🧠 100% Local On-Device AI
+RedVerse for Android does not rely on the cloud or a PC. It utilizes `llama-cpp-capacitor` to download and run optimized GGUF language models natively on your phone's processor. 
 
-#### 🧠 Continuous Conversation Memory
-The Android app remembers everything you say! It retains the context of your conversation across multiple messages, allowing you to have deep, multi-turn discussions and follow-up questions without ever having to repeat yourself.
+#### 🔋 Highly Optimized for Mobile
+Choose from a curated list of tiny, highly efficient models (like Qwen 2.5 0.5B, TinyLlama 1.1B, or Phi-3 Mini) that run blazingly fast without draining your battery or requiring a flagship device.
 
-#### 📱 Remote Desktop Control
-You don't need to be sitting at your computer to control it. You can pull out your Android phone, send a voice command, and watch as your Windows PC across the room instantly opens applications, types documents, or plays music.
-
-#### 🎙️ Mobile Voice Dictation
-Don't want to type? The RedVerse Android app features a built-in voice interface. Just tap the glowing microphone on your phone's screen and speak naturally. Your phone will transmit your voice command directly to the desktop brain for processing.
+#### 🎙️ Mobile Voice Dictation & Text-to-Speech
+Just tap the glowing microphone on your phone's screen and speak naturally. RedVerse transcribes your voice, processes it locally through the LLM, and speaks the response back to you using native Android text-to-speech.
 
 #### 🌟 Polished Mobile Dashboard
-The Android app isn't just functional; it's beautiful. It features a curated, futuristic design with custom icons, smooth animations, and a layout that looks and feels like a state-of-the-art premium application.
+The Android app features a curated, futuristic design with custom icons, smooth animations, and a layout that looks and feels like a state-of-the-art premium application, fully optimized for touch screens.
 
 ---
 
