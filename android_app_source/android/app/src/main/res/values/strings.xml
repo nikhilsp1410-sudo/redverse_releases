@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">redverse</string>
-    <string name="title_activity_main">redverse</string>
-    <string name="package_name">com.redverse.app</string>
-    <string name="custom_url_scheme">com.redverse.app</string>
-</resources>
