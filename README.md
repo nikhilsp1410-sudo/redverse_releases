@@ -42,8 +42,8 @@ The RedVerse Android App transforms your mobile phone into a powerful remote con
 
 ### Core Mobile Features:
 
-#### 🔗 Instant WiFi Syncing
-The Android app instantly connects to your Windows Desktop app over your local WiFi network. Just type in your computer's IP address on the gorgeous mobile dashboard, and your phone and computer become one unified system.
+#### 🔗 Local Network Connection
+The Android app connects to your Windows Desktop app over your local WiFi network. Just type in your computer's IP address on the mobile dashboard, and your phone and computer are instantly linked.
 
 #### 🧠 Continuous Conversation Memory
 The Android app remembers everything you say! It retains the context of your conversation across multiple messages, allowing you to have deep, multi-turn discussions and follow-up questions without ever having to repeat yourself.
