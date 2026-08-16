@@ -66,3 +66,57 @@ We provide incredibly simple, one-click installers for Windows, and a ready-to-u
 
 ### Android Installation:
 - **RedVerse Android App (`RedVerse_Android_v1.0.0.apk`):** Simply download this file directly to your Android device, tap to install, and you are ready to connect to your desktop!
+
+---
+
+## 🗣️ Supported Commands
+
+### Windows Desktop Application
+The Windows App has an extensive list of hardcoded system commands. If you have "Voice Command Mode" enabled, say your wake word (e.g., *"Hey RedVerse"*) followed by any of these commands:
+
+**System & App Management**
+* `"Open [App Name]"` (e.g., *Open Spotify*, *Open Notepad*)
+* `"Open [Website Name]"` (e.g., *Open GitHub*)
+* `"Switch to [App Name]"` or `"Switch app"`
+* `"Close window"`, `"Maximize window"`, `"Minimize window"`, `"Show desktop"`
+* `"Snap left"`, `"Snap right"`
+* `"Rescan apps"` (Refreshes the index of installed apps)
+* `"Download [App Name]"` or `"Install [App Name]"` (Installs via winget)
+
+**Web Browsing & Search**
+* `"Search for [query]"` or `"Search [query]"`
+* `"Search for [query] and open the first result"`
+* `"Open its website"` (Opens the site for your last search context)
+* `"New tab"`, `"Close tab"`
+
+**Media & Playback**
+* `"Play [Song/Artist]"` (Defaults to Spotify)
+* `"Open Spotify"`, `"Pause music"`, `"Next track"`, `"Previous track"`
+* `"Volume up"`, `"Volume down"`, `"Mute"`
+* `"YouTube search for [query]"` or `"YouTube play [query]"`
+* `"Skip ad"`, `"Fullscreen"`, `"Pause video"` (While YouTube is active)
+
+**Productivity & Typing**
+* `"Start dictation"` (Types exactly what you say) and `"Stop dictation"`
+* `"Type [text]"`
+* `"Press enter"`, `"Press tab [X] times"`, `"Press backspace [X] times"`
+* `"Copy that"`, `"Paste that"`, `"Delete that"`, `"Undo that"`
+
+**Mouse Control & Vision**
+* `"Click here"`, `"Double click"`, `"Right click"`
+* `"Click on the [Button/Element Name]"`
+* `"Click the [1st/2nd/3rd] result"`
+* `"Move mouse up/down/left/right"`
+* `"Scroll up"`, `"Scroll down"`
+* `"What's on my screen?"` or `"What error is this?"` (Analyzes screen via Vision model)
+
+**Personal Data & Settings**
+* `"What's on my calendar?"`, `"Read my emails"`
+* `"Backup my files"`
+* `"Open settings"`, `"Open Bluetooth"`, `"Open Wi-Fi"`
+* `"Friday mode"` or `"Jarvis mode"` (Switches TTS voice personality)
+* `"Stop"`, `"Quiet"`, `"Shut up"` (Stops current TTS generation)
+* `"Exit"` or `"Goodbye"`
+
+### Android App
+The Android App functions as a pure, offline conversational AI companion. It does not control your phone's operating system with hardcoded commands. Simply tap the microphone and speak naturally to the AI!
