@@ -111,7 +111,6 @@ The Windows App has an extensive list of hardcoded system commands. If you have 
 * `"What's on my screen?"` or `"What error is this?"` (Analyzes screen via Vision model)
 
 **Personal Data & Settings**
-* `"What's on my calendar?"`, `"Read my emails"`
 * `"Backup my files"`
 * `"Open settings"`, `"Open Bluetooth"`, `"Open Wi-Fi"`
 * `"Friday mode"` or `"Jarvis mode"` (Switches TTS voice personality)
